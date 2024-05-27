@@ -125,7 +125,7 @@
     <div id="products" class="container">
         <h2>Products</h2>
         <div class="product">
-            <img src="![Ninja400](https://github.com/Clijah/Clijah/assets/169433866/ec9816b9-9ed8-47e2-ab71-2efabc4ce438)" alt="Product 1">
+            <img src="Ninja400.jpg">
             <h2>Ninja 400 KRT</h2>
 			<p>The Ninja 400 is a sleek and agile sport motorcycle designed for maximum performance on both city streets and winding roads. 
 			With its compact design and powerful engine, it offers an exhilarating riding experience, perfect for riders seeking adrenaline-pumping thrills and precise handling.</p>
@@ -133,7 +133,7 @@
             <button class="add-to-cart" data-name="Ninja 400 KRT" data-price="300000">Add to Cart</button>
         </div>
         <div class="product">
-            <img src="C:\Users\User\Downloads\Ninja650.jpg" alt="Product 2">
+            <img src="Ninja650.jpg" alt="Product 2">
             <h2>Ninja 650</h2>
 			<p>The Ninja 650 strikes a perfect balance between performance and practicality, offering sporty styling and nimble handling combined with everyday versatility. 
 			Its smooth power delivery and comfortable ergonomics make it an ideal choice for both commuting and spirited rides.</p>
@@ -141,7 +141,7 @@
             <button class="add-to-cart" data-name="Ninja 650" data-price="450000">Add to Cart</button>
         </div>
         <div class="product">
-            <img src="C:\Users\User\Downloads\Ninja1000.png" alt="Product 3">
+            <img src="Ninja1000.png">
             <h2>Ninja 1000</h2>
 			<p>The Ninja 1000 combines exhilarating performance with long-distance comfort, making it the ultimate sport touring machine. 
 			With a powerful inline-four engine, advanced electronics, and comfortable ergonomics, it offers thrilling acceleration and confidence-inspiring handling for riders who demand the best of both worlds.</p>
@@ -149,7 +149,7 @@
             <button class="add-to-cart" data-name="Ninja 1000" data-price="900000">Add to Cart</button>
         </div>
         <div class="product">
-            <img src="C:\Users\User\Downloads\zx4r.jpg" alt="Product 4">
+            <img src="ZX4RR.jpg">
             <h2>Ninja ZX-4RR</h2>
 			<p>The Ninja ZX-4RR is a track-focused supersport machine engineered for podium performance. With its lightweight chassis, race-tuned suspension, and high-revving inline-four engine, 
 			it delivers razor-sharp handling and blistering acceleration, making it the weapon of choice for professional racers and track enthusiasts.</p>
@@ -157,7 +157,7 @@
             <button class="add-to-cart" data-name="Ninja ZX-4RR" data-price="470000">Add to Cart</button>
         </div>
         <div class="product">
-            <img src="C:\Users\User\Downloads\ZX6R.jpg" alt="Product 5">
+            <img src="ZX6R.jpg">
             <h2>Ninja ZX-6R</h2>
 			<p>The Ninja ZX-6R is a high-performance middleweight sportbike designed to dominate both the street and the track. 
 			With its race-derived technology, aggressive styling, and potent inline-four engine, it offers exceptional agility, precise handling, and adrenaline-pumping acceleration, setting the benchmark for supersport motorcycles.</p>
@@ -165,7 +165,7 @@
             <button class="add-to-cart" data-name="Ninja ZX-6R" data-price="₱560000">Add to Cart</button>
         </div>
         <div class="product">
-            <img src="C:\Users\User\Downloads\ZX10R.jpg" alt="Product 6">
+            <img src="ZX10R.jpg">
             <h2>Ninja ZX-10R</h2>
 			<p>The Ninja ZX-10R is a championship-winning superbike engineered for absolute performance on the track. 
 			With its potent inline-four engine, advanced electronics, and aerodynamic design, it delivers blistering acceleration, razor-sharp handling, and unmatched agility, making it the ultimate weapon for professional racers and adrenaline junkies alike.</p>
@@ -173,7 +173,7 @@
             <button class="add-to-cart" data-name="Ninja ZX-10R" data-price="1200000">Add to Cart</button>
         </div>
         <div class="product">
-            <img src="C:\Users\User\Downloads\H2.jpg" alt="Product 7">
+            <img src="H2.jpg">
             <h2>Ninja H2</h2>
 			<p>The Ninja H2 is a hyperbike that pushes the boundaries of performance, engineering, and technology. With its supercharged inline-four engine delivering exhilarating power, 
 			the Ninja H2 offers unmatched acceleration and top-end performance. Its aerodynamic design, advanced electronics, and race-inspired components make it a true powerhouse on both the street and the track. 
