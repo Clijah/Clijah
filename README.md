@@ -120,7 +120,7 @@
     <div id="home" class="container active">
         <h2>Welcome to Zeus Motors</h2>
         <p>Your one-stop shop for all things awesome.</p>
-        <img src="[C:\Users\User\Downloads\Homepage.jpg" alt="Homepage Image" class="homepage-image](https://github.com/Clijah/Clijah/blob/main/Homepage.jpg)">
+        <img src="Homepage.jpg">
     </div>
     <div id="products" class="container">
         <h2>Products</h2>
