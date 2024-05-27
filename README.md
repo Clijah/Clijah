@@ -125,8 +125,7 @@
     <div id="products" class="container">
         <h2>Products</h2>
         <div class="product">
-            <img src="![Ninja400](https://github.com/Clijah/Clijah/assets/169433866/ec9816b9-9ed8-47e2-ab71-2efabc4ce438)
-" alt="Product 1">
+            <img src="![Ninja400](https://github.com/Clijah/Clijah/assets/169433866/ec9816b9-9ed8-47e2-ab71-2efabc4ce438)" alt="Product 1">
             <h2>Ninja 400 KRT</h2>
 			<p>The Ninja 400 is a sleek and agile sport motorcycle designed for maximum performance on both city streets and winding roads. 
 			With its compact design and powerful engine, it offers an exhilarating riding experience, perfect for riders seeking adrenaline-pumping thrills and precise handling.</p>
